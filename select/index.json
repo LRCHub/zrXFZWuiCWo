@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "フェイクショー",
+  "base_artist": "Omoinotake",
+  "createdAt": "2026-02-14T17:44:02.668010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フェイクショー",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/01_フェイクショー_Omoinotake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フェイクショー",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/pl_01_フェイクショー_Omoinotake.txt"
+    }
+  ]
+}
